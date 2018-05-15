@@ -98,3 +98,26 @@ Always be available to potential new contributors to ask questions, or even proa
 them to try to help them find tasks to work on! The best documentation in the world is still no
 substitute for old fashioned human contact and communication. Contributors usually join projects
 to feel like they're working with a group of people to accomplish something.
+
+## Keeping up momentum
+
+#### In a nutshell
+
+Keeping a project moving forward is important; having a sense of progress keeps team members invested
+and gives the project the best chance of actually launching. This section covers some tips on helping
+to continuously foster a sense of progress in a project.
+
+#### Regular check-ins
+
+Have team members regularly report the current status of tasks they are working on. Not only does this
+help each team member motivate themselves to have progress to show, but it also gives the team insight
+into when a team member may need help with a task, or no longer has time to continue working on a task.
+This transparency also helps ensure that task and project statuses remained up to date, and reflect the
+actual state of the project. In addition to helping foster a sense of ongoing progress, this helps with
+things like new contributor onboarding and roadmap tracking as well.
+
+#### Goals and Deadlines
+
+When establishing roadmaps, set target dates for each step in the roadmap. Constraining goals to
+be accomplished by a certain deadline helps set a pace for progress on the project, and can provide
+that sense that the project is continuing to move stadily forwad.
