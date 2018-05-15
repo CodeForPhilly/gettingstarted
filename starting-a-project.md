@@ -52,3 +52,49 @@ are done vs how many are not can help quantify how close the team is to accompli
 When individual tasks are being tracked as part of a roadmap, this makes it easier for teammates to
 collaborate. Teammates can avoid duplicating effort by knowing who is working on what, and have a shared
 understanding of what needs to be worked on next.
+
+## Onboarding
+
+#### In a nutshell
+
+Onboarding is the process of taking a potential new contributor from the point of knowing nothing about
+your project up to the point of making impactful contributions. As an open source project to which people
+donate their time, it is important to set reasonable expectations around contributors; many will come and
+go over the lifetime of a project. Because of this reality, it is important to keep the barrier of entry
+to new contributors as low as possible.
+
+#### Doing it successfully
+
+###### Simple introspection into current project status and tasks
+
+It is important that a new contributor can easily view the current project status, and determine from
+the current status of the project which tasks need to be done but are not currently being worked on.
+This provides a direct path for a new contributor to know how to become immediately helpful to a project.
+This is a need which can be met by establishing and maintaining a project roadmap, with tracked tasks.
+
+###### Clear, concise, up-to-date instructions on getting started with development (on all platforms!)
+
+All projects should provide instructions on how developers can setup their local machines to start
+working on the project. It is important that instructions exist **for every major platform** (Windows, OS X, Linux); 
+every individual has their own preferences, and excluding platforms which your current team does not
+prefer alienates potential contributors. This should be done on a best effort basis; if no one
+on the team has access to a Windows license or to a Mac Book in order to provide instructions, then
+it simply cannot be done.
+
+What's perhaps most important about this point is that projects should avoid incorportating platform
+specific workflows into the development process (e.g., requiring batch scripts or AppleScript as part
+of the development process).
+
+###### Documented code base
+
+The code base should have comments on all methods and functions, and before any sequences of difficult
+to read or unusual code. This is a general coding best practice, but is highlighted in this context
+because of its impact on the ability of a new contributor to quickly become familiar with the current
+code base (and therefore more quickly make meaningful contributions)
+
+###### Human contact!
+
+Always be available to potential new contributors to ask questions, or even proactively reach out to
+them to try to help them find tasks to work on! The best documentation in the world is still no
+substitute for old fashioned human contact and communication. Contributors usually join projects
+to feel like they're working with a group of people to accomplish something.
