@@ -18,3 +18,11 @@ One of the most exciting part "getting started" is choosing your technology stac
 | Trello  | IDE  |
 
 Alright -- So I got everything setup, but where do I put my code?
+
+Who is in charge of the repo?
+
+When do I PR?
+
+Why did someone do this?
+
+Stop checking in things on the master branch.
