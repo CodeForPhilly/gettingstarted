@@ -66,3 +66,29 @@ always make sure to mark it as completed to keep the view of the project status 
 Investing time in helping to make a project happen means that you are part of that project! As a part of that project, you shouldn't
 be shy about speaking up about your vision for its future and its mission. It's important to also remember that your vision isn't the
 only one, but contributing your opinions is important in order to continue feeling invested in the project and its mission.
+
+## Being a good citizen as a technical contributor
+
+As a technical contributor, it is important to abide by the contribution guidelines of the project. There are some general guidelines
+as well which will improve the quality of contributions to any project, and make the contributions more easily digestible by teammates.
+
+#### Atomic commits and PRs
+
+Every commit should have a specific focus and scope, and should not include work being done outside of that scope. This idea of ensuring
+that each commit remains small with all changes within the commit being related to one another can be more concisely referred to as
+and "atomic commit". Constructing commits this way makes them easier to review for teammates and makes them simpler to perform git
+operations on.
+
+#### Documentation
+
+New code should always be documented! This is a general coding best practice, but comes into particular focus when working on open source
+projects where new contibutors may frequently come and go. Contributing well documented code makes it simple for new contributors to quickly
+and easily understand work which has been previously done. Also, it makes it easy for current contributors to remember how things work
+when they come back to them months later!
+
+#### Collaborative brainstorming
+
+When trying to solve problems, it's always a good idea to brainstorm with teammates and backboard ideas off of them. Not only does this
+give the whole team a sense of ownership over each problem which has been solved in the course of working on the project, but also helps
+teammates understand a solution before it is even implemented. This will also make reveiwing contributions easier for teammates, and makes
+it more likely that teammates will find the solution agreeable when it is time for them to review it.
