@@ -4,7 +4,7 @@ Civic Hackers starter guide. A basic "readme" on good ways to ensure successful 
 
 ## Thoughts
 
-### Starting a Project
+### [Starting a Project] (starting-a-project.md)
 
 Roadmapping is the process of establishing one or more concrete, achievable goals and
 laying out each of the tasks which must be completed in order to accomplish each goal.
@@ -26,7 +26,7 @@ Roadmap goals to avoid:
 - Complete the project
 - Find users for user testing
 
-### Contributing to a Project
+### [Contributing to a Project] (contributing-to-a-project.md)
 
 The first and foremost thing to do when joining a project is to figure out what needs to be done
 for the project at the present time. Identifying what tasks need to be accomplished is the best
