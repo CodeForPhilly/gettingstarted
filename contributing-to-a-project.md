@@ -92,3 +92,44 @@ When trying to solve problems, it's always a good idea to brainstorm with teamma
 give the whole team a sense of ownership over each problem which has been solved in the course of working on the project, but also helps
 teammates understand a solution before it is even implemented. This will also make reveiwing contributions easier for teammates, and makes
 it more likely that teammates will find the solution agreeable when it is time for them to review it.
+
+## Becoming a non-technical contributor
+
+#### In a nutshell
+
+Writing the code is one small part of gaining success as an open source project. Most of the work done on a project is actually non-technical.
+This section includes some examples of non-technical work which every project needs done in order to succeed.
+
+#### Managing task definition, assignment, and progress
+
+I.e.,, project management. A successful project will have a good road map, and a good road map will consist of tasks. Every project needs
+someone who can help make sure tasks are getting the attention they need, make sure it is known by everyone who is working on a given task,
+and check in with teammates on how tasks are progressing to ensure the status of a task in the issue tracker reflects reality.
+
+#### Managing project needs/resources
+
+Another project management need, every project needs someone who can help make sure that there is enough expertise and help on the team
+to accomplish the tasks which need to be accomplished by the deadline which they need to be completed by.
+
+#### Facilitating discussion
+
+Sometimes getting the conversation is the hardest part of collaborating. Every project needs someone who is willing to jump in head first
+and kick start a discussion between collaborators when they seem all to willing to remain quiet.
+
+#### Maintaining focus on the mission
+
+Technically minded contributors can often times become distracted by minutiae, such as what software library to use to solve a specific problem
+or whether the code base should be written out using tabs or spaces. It is extremely helpful for every project to have someone who can interject
+when these nitpicky conversations go on too long or dominate the discourse too much to remind the team of the end goal of the project, and remind
+them that the success or failure or the project's mission almost certainly does not rely on the outcome of these debates.
+
+#### Evangilism
+
+A project is only as helpful as the number of people it can reach. Every successful project needs contributors who can help spread the word about
+the project, and can help get it into the hands of the people who will find it the most useful.
+
+#### Opening up feedback channels for users
+
+Just as a project is only as good ad the number of people it can reach, it is also only as good as the ability of its users to wield it. Every
+successful project needs people who are reaching out to and talking to users to determine how helpful or useful the project is in its current
+state, and gathering feedback on how it could be more useful or helpful.
