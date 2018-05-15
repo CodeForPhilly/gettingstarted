@@ -4,6 +4,34 @@ Civic Hackers starter guide. A basic "readme" on good ways to ensure successful 
 
 ## Thoughts
 
+### Starting a Project
+
+Roadmapping is the process of establishing one or more concrete, achievable goals and
+laying out each of the tasks which must be completed in order to accomplish each goal.
+To have a useful roadmap, it is important that these goals and the tasks which need to
+be done to accomplish them are explicitly documented, and easily accessed by all members of the team.
+
+It is important that the tasks which compose a goal in a roadmap be tracked; It should be
+known at all times whether or not a task is completed, if it's actively being worked on,
+and who is working on it if it is.
+
+Examples of good roadmap goals:
+
+- Implement a MVP
+- Implement all API endpoints
+- Complete 5 user tests
+
+Roadmap goals to avoid:
+
+- Complete the project
+- Find users for user testing
+
+### Contributing to a Project
+
+The first and foremost thing to do when joining a project is to figure out what needs to be done
+for the project at the present time. Identifying what tasks need to be accomplished is the best
+way to identify how to have an immediate and helpful impact on a project as a contributor.
+
 ### Tooling
 
 One of the most exciting part "getting started" is choosing your technology stack. But before you do that you need to make two categories.
