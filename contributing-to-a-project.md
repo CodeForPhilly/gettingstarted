@@ -108,12 +108,12 @@ and check in with teammates on how tasks are progressing to ensure the status of
 
 #### Managing project needs/resources
 
-Another project management need, every project needs someone who can help make sure that there is enough expertise and help on the team
+Another project management need, every project needs someone who can help make sure there is enough expertise and help on the team
 to accomplish the tasks which need to be accomplished by the deadline which they need to be completed by.
 
 #### Facilitating discussion
 
-Sometimes getting the conversation is the hardest part of collaborating. Every project needs someone who is willing to jump in head first
+Sometimes getting the conversation started is the hardest part of collaborating. Every project needs someone who is willing to jump in head first
 and kick start a discussion between collaborators when they seem all to willing to remain quiet.
 
 #### Maintaining focus on the mission
@@ -123,7 +123,7 @@ or whether the code base should be written out using tabs or spaces. It is extre
 when these nitpicky conversations go on too long or dominate the discourse too much to remind the team of the end goal of the project, and remind
 them that the success or failure or the project's mission almost certainly does not rely on the outcome of these debates.
 
-#### Evangilism
+#### Evangelism
 
 A project is only as helpful as the number of people it can reach. Every successful project needs contributors who can help spread the word about
 the project, and can help get it into the hands of the people who will find it the most useful.
