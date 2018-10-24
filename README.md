@@ -4,7 +4,7 @@ Civic Hackers starter guide. A basic "readme" on good ways to ensure successful 
 
 ## Thoughts
 
-### [Starting a Project] (starting-a-project.md)
+### [Starting a Project](https://github.com/CodeForPhilly/gettingstarted/blob/master/starting-a-project.md)
 
 Roadmapping is the process of establishing one or more concrete, achievable goals and
 laying out each of the tasks which must be completed in order to accomplish each goal.
@@ -26,7 +26,7 @@ Roadmap goals to avoid:
 - Complete the project
 - Find users for user testing
 
-### [Contributing to a Project] (contributing-to-a-project.md)
+### [Contributing to a Project](https://github.com/CodeForPhilly/gettingstarted/blob/master/contributing-to-a-project.md)
 
 The first and foremost thing to do when joining a project is to figure out what needs to be done
 for the project at the present time. Identifying what tasks need to be accomplished is the best
@@ -34,7 +34,7 @@ way to identify how to have an immediate and helpful impact on a project as a co
 
 ### Tooling
 
-One of the most exciting part "getting started" is choosing your technology stack. But before you do that you need to make two categories.
+One of the most exciting parts of "getting started" is choosing your technology stack. But before you do that you need to make two categories.
 
 ***Human** - Tools that help me communicate, collaborate and contribute.*
 
@@ -61,7 +61,7 @@ Stop checking in things on the master branch.
 
 Alright -- So everyone is setup, what next?
 
-Who is charge?
+Who is in charge?
 
 When do we meetup?
 

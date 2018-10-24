@@ -9,7 +9,7 @@ way to identify how to have an immediate and helpful impact on a project as a co
 #### Reviewing onboarding material
 
 When coming on to a new project, the best place to start is by reviewing any onboarding material.
-Commond places to find onboarding material for a project include:
+Common places to find onboarding material for a project include:
 
 - README.md
 - CONTRIBUTING.md
@@ -23,7 +23,7 @@ which may be necessary in order to make contributions to the project.
 
 Ideally, a project should have up-to-date and readily available onboarding materials for a new contributor
 to review. Unfortunately though, not all projects have this information documented and published. In cases
-such as these, it's best to reach out to current contributors to the project. Even when this documentation
+such as these, it's best to reach out (e.g. via Slack) to current contributors to the project. Even when this documentation
 does exist, it may be necessary to reach out to active contributors to ask clarifying questions,
 correct outdated information, or just to say hello so they know who they are working with!
 
@@ -35,10 +35,10 @@ Being a good contributor means not leaving project teammates guessing. It is imp
 understand what each other team member is actively doing (or not doing) so that team members can avoid stepping
 on each other's toes, while still ensuring everything that needs to be done is done.
 
-#### What your are working on
+#### What you are working on
 
 Being a good contributor means letting the team know when starting work on a new task. There are never too many channels
-to keeping teammates in the loop! If the task is in the issue tracker being used by the team (which it definitely should be),
+to keep teammates in the loop! If the task is in the issue tracker being used by the team (which it definitely should be),
 always self-assign the task when working on it, and even inform the team via the regular communication channel, whether that
 be a chat channel or an email thread. Keeping the team aware of what tasks are being worked on not only helps the team avoid
 duplicating efforts, but also encourages the team to see tasks being worked on.
@@ -76,7 +76,7 @@ as well which will improve the quality of contributions to any project, and make
 
 Every commit should have a specific focus and scope, and should not include work being done outside of that scope. This idea of ensuring
 that each commit remains small with all changes within the commit being related to one another can be more concisely referred to as
-and "atomic commit". Constructing commits this way makes them easier to review for teammates and makes them simpler to perform git
+an "atomic commit". Constructing commits this way makes them easier to review for teammates and makes them simpler to perform git
 operations on.
 
 #### Documentation
@@ -102,7 +102,7 @@ This section includes some examples of non-technical work which every project ne
 
 #### Managing task definition, assignment, and progress
 
-I.e.,, project management. A successful project will have a good road map, and a good road map will consist of tasks. Every project needs
+I.e., project management. A successful project will have a good road map, and a good road map will consist of tasks. Every project needs
 someone who can help make sure tasks are getting the attention they need, make sure it is known by everyone who is working on a given task,
 and check in with teammates on how tasks are progressing to ensure the status of a task in the issue tracker reflects reality.
 
@@ -114,7 +114,7 @@ to accomplish the tasks which need to be accomplished by the deadline which they
 #### Facilitating discussion
 
 Sometimes getting the conversation is the hardest part of collaborating. Every project needs someone who is willing to jump in head first
-and kick start a discussion between collaborators when they seem all to willing to remain quiet.
+and kick start a discussion between collaborators when they seem all too willing to remain quiet.
 
 #### Maintaining focus on the mission
 
@@ -123,13 +123,13 @@ or whether the code base should be written out using tabs or spaces. It is extre
 when these nitpicky conversations go on too long or dominate the discourse too much to remind the team of the end goal of the project, and remind
 them that the success or failure or the project's mission almost certainly does not rely on the outcome of these debates.
 
-#### Evangilism
+#### Evangelism
 
 A project is only as helpful as the number of people it can reach. Every successful project needs contributors who can help spread the word about
 the project, and can help get it into the hands of the people who will find it the most useful.
 
 #### Opening up feedback channels for users
 
-Just as a project is only as good ad the number of people it can reach, it is also only as good as the ability of its users to wield it. Every
+Just as a project is only as good as the number of people it can reach, it is also only as good as the ability of its users to wield it. Every
 successful project needs people who are reaching out to and talking to users to determine how helpful or useful the project is in its current
 state, and gathering feedback on how it could be more useful or helpful.

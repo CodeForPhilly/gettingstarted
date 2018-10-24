@@ -1,7 +1,7 @@
 ## Choosing a mission
 
 Every civic engagement project should be based on a mission! If there is not mission, what is the purpose?
-The mission is the bedrock of the project which should guide every subsequent decision, technical and non-technical alike
+The mission is the bedrock of the project which should guide every subsequent decision, technical and non-technical alike.
 
 ## Surverying for previous work done toward the mission
 

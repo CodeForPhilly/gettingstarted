@@ -13,7 +13,7 @@ and who is working on it if it is.
 
 Examples of good roadmap goals:
 
-- Implement a MVP
+- Implement an MVP
 - Implement all API endpoints
 - Complete 5 user tests
 
@@ -78,7 +78,7 @@ All projects should provide instructions on how developers can setup their local
 working on the project. It is important that instructions exist **for every major platform** (Windows, OS X, Linux); 
 every individual has their own preferences, and excluding platforms which your current team does not
 prefer alienates potential contributors. This should be done on a best effort basis; if no one
-on the team has access to a Windows license or to a Mac Book in order to provide instructions, then
+on the team has access to a Windows license or to a MacBook in order to provide instructions, then
 it simply cannot be done.
 
 What's perhaps most important about this point is that projects should avoid incorportating platform
@@ -112,7 +112,7 @@ to continuously foster a sense of progress in a project.
 Have team members regularly report the current status of tasks they are working on. Not only does this
 help each team member motivate themselves to have progress to show, but it also gives the team insight
 into when a team member may need help with a task, or no longer has time to continue working on a task.
-This transparency also helps ensure that task and project statuses remained up to date, and reflect the
+This transparency also helps ensure that task and project statuses remain up to date, and reflect the
 actual state of the project. In addition to helping foster a sense of ongoing progress, this helps with
 things like new contributor onboarding and roadmap tracking as well.
 
@@ -120,4 +120,4 @@ things like new contributor onboarding and roadmap tracking as well.
 
 When establishing roadmaps, set target dates for each step in the roadmap. Constraining goals to
 be accomplished by a certain deadline helps set a pace for progress on the project, and can provide
-that sense that the project is continuing to move stadily forwad.
+that sense that the project is continuing to move steadily forward.
