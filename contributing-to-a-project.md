@@ -108,13 +108,15 @@ and check in with teammates on how tasks are progressing to ensure the status of
 
 #### Managing project needs/resources
 
-Another project management need, every project needs someone who can help make sure that there is enough expertise and help on the team
+Another project management need, every project needs someone who can help make sure there is enough expertise and help on the team
 to accomplish the tasks which need to be accomplished by the deadline which they need to be completed by.
 
 #### Facilitating discussion
 
-Sometimes getting the conversation is the hardest part of collaborating. Every project needs someone who is willing to jump in head first
-and kick start a discussion between collaborators when they seem all too willing to remain quiet.
+
+Sometimes getting the conversation started is the hardest part of collaborating. Every project needs someone who is willing to jump in head first
+and kick start a discussion between collaborators when they seem all to willing to remain quiet.
+
 
 #### Maintaining focus on the mission
 
